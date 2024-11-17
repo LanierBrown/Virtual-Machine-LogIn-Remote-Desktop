@@ -3,6 +3,27 @@
 
 # Virtual Machine LogIn (Remote-Desktop)
 
+This tutorial provides a comprehensive, step-by-step guide to creating a Virtual Machine (VM) in Microsoft Azure and accessing it for use.<br />
+
+
+
+
+
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Resource Groups
+- RDP (3389)
+
+
+<h2>Operating Systems Used </h2>
+
+- Windows Server 2022
+- Windows 10 (21H2)
+
+---
+
+
 ### 1️⃣ Get the Public IP Address of Your VM
 - In the **Azure Portal**, go to your **Virtual Machine**'s page.  
 - Under the **Overview** section, locate the **Public IP address**. This is the address you'll use to connect via RDP.
