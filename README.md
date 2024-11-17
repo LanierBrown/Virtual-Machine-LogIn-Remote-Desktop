@@ -1,7 +1,7 @@
 
 ![Screenshot 2024-11-17 120051](https://github.com/user-attachments/assets/b1d9a979-fe13-4753-95f3-2bd3d82ecdc5)
 
-# Virtual Machine LogIn (Remote-Desktop)
+# Virtual Machine LogIn (Remote Desktop)
 
 This tutorial provides a comprehensive, step-by-step guide to creating a Virtual Machine (VM) in Microsoft Azure and accessing it for use.<br />
 
@@ -12,7 +12,6 @@ This tutorial provides a comprehensive, step-by-step guide to creating a Virtual
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Resource Groups
 - RDP (3389)
 
 
